@@ -1,8 +1,8 @@
 ---
-title       : 
-subtitle    : 
-author      : 
-job         : 
+title       : Getting Started with Wix
+subtitle    : Web Basics
+author      : The Maryland Center for Women in Computing
+logo        : umd_logo.png
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
@@ -10,15 +10,15 @@ widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 ---
 
-## Read-And-Delete
+## What is Wix?
 
-1. Edit YAML front matter
-2. Write using R Markdown
-3. Use an empty line followed by three dashes to separate slides!
+- Wix is a free website builder
+- Drag-and-drop text, pictures, and other elements onto a webpage 
+- Publish your webpage with a personal web address
 
---- .class #id 
+---
 
-## Slide 2
+## Signing Up for Wix
 
 
 
