@@ -164,3 +164,11 @@ mode        : selfcontained # {standalone, draft}
 - Any changes made to your mobile site automatically show up on the desktop version of your site.
 
 <img class=center src="./assets/img/mobile_prev.png" height=auto />
+
+---
+
+## Helpful Links
+
+- [www.wix.com](http://www.wix.com)
+- [Wix's tutorial page](http://www.wix.com/support/main/html5/wix-editor)
+- [The Maryland Center for Women in Computing](http://mcwic.cs.umd.edu/)
