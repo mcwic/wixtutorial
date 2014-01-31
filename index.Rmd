@@ -15,11 +15,38 @@ mode        : selfcontained # {standalone, draft}
 - Wix is a free website builder
 - Drag-and-drop text, pictures, and other elements onto a webpage 
 - Publish your webpage with a personal web address
+- Wix provides an easy interface to learn about and interact with the components of a website
 
 ---
 
 ## Signing Up for Wix
 
+- You only need an email addrss to sign up
+- Go to www.wix.com to create your account
 
+<img class=center src="./assets/img/wix_home.png" height=400 />
 
+---
 
+## Creating an account
+
+- Enter your email address and set your password
+- Make sure you indicate you're a new user!
+
+<img class=center src="./assets/img/wix_login_one.png" height=400 />
+
+---
+
+## Creating an account
+
+- You will be prompted to type in you email address and password twice to check for accuracy.
+
+<img class=center src="./assets/img/wix_login_two.png" height=400 />
+
+---
+
+## Select website layout
+
+- We recommend a personal one-pager site, but you can always add pages later!
+
+<img class=center src="./assets/img/wix_select.png" height=400 />
