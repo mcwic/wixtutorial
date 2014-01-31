@@ -6,6 +6,9 @@ logo        : umd_logo.png
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
+url:
+  lib: ./libraries
+  assets: ./assets
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 ---
@@ -50,3 +53,21 @@ mode        : selfcontained # {standalone, draft}
 - We recommend a personal one-pager site, but you can always add pages later!
 
 <img class=center src="./assets/img/wix_select.png" height=400 />
+
+
+---
+
+## Select website theme
+
+- Pick any theme you that you like!
+
+<img class=center src="./assets/img/wix_themes.png" height=700 />
+
+---
+
+## Pick your website's color style
+
+- Browse a variety of color styles for your site:
+- Choose whatever you think looks good!
+
+<img class=center src="./assets/img/wix_colors.png" height=auto />
